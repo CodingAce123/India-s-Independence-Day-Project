@@ -41,7 +41,7 @@ body{
     transform-origin: right;
     animation-delay: 1s;
 }
-.chakra{
+.Ashoka-Chakra{
     position: absolute;
     top: 50%;
     left: 50%;
@@ -49,7 +49,7 @@ body{
     z-index: 1;
     opacity: 1;
 }
-.chakra img{
+.Ashoka-Chakra img{
     margin-top: 0.5vh;
     height: 34vh;
     animation: rotate 20s linear infinite;
